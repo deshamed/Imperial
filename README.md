@@ -24,6 +24,7 @@ Imperial is a Roblox Beaming tool and account checker designed to target and ver
 
 ## Installation:
 **NOTE: IMPERIAL ONLY WORKS ON WINDOWS, MACOS AND LINUX AREN'T SUPPORTED**
+
 You do not need to install tor. Tor is automatically installed when selected for proxies.
 
 1. Open your extracted folder
