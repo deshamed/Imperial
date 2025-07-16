@@ -7,7 +7,6 @@ Imperial is a Roblox Beaming tool and account checker designed to target and ver
 `user:pass@ip:port` and `ip:port`
 
 ## Features/Captures
-(All hits will go into the "Capture.txt" file)
 - Username & Password
 - Robux & Roblox Credit
 - Headless/Korblox
