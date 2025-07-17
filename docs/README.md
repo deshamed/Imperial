@@ -32,7 +32,8 @@ You do not need to install tor. Tor is automatically installed when selected for
 3. Enter in your custom fake link
 4. Select how many threads (the more the faster but you will have a ton of retries).
 5. Enter in your proxy txt file. (You can select "None" if you don't have a proxy)
-6. You should get your custom fake link profile (its automatically generated with a fake username, avatar, display name, follower count, friends count, following count, and total RAP.)
+6. You should get your custom fake link profile
+(its automatically generated with a fake username, avatar, display name, follower count, friends count, following count, and total RAP.)
 
 ## Usage
 You are NOT allowed to sell Imperial or ANY modified versions. If you fork this and use it then give me credit.
